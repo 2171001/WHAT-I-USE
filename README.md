@@ -8,10 +8,10 @@
 | CORStest | [Link](https://github.com/RUB-NDS/CORStest) |
 | CRLF-Injection-Scanner | [Link](https://github.com/MichaelStott/CRLF-Injection-Scanner) |
 | CRLFsuite | [Link](https://github.com/Raghavd3v/CRLFsuite) |
+| CloudFlair | [Link](https://github.com/christophetd/CloudFlair) |
 | Corscan | [Link](https://github.com/Angix-Black/Corscan) |
 | Corsy | [Link](https://github.com/s0md3v/Corsy) |
 | Depix | [Link](https://github.com/JonasSchatz/DepixHMM) |
-| CloudFlair | [Link](https://github.com/christophetd/CloudFlair) |
 | Gopherus | [Link](https://github.com/tarunkant/Gopherus) |
 | GraphQLmap | [Link](https://github.com/swisskyrepo/GraphQLmap) |
 | Gsec | [Link](https://github.com/gotr00t0day/Gsec.git) |
@@ -36,8 +36,8 @@
 | SecretFinder | [Link](https://github.com/GerbenJavado/LinkFinder) |
 | Site-Scanner | [Link](https://github.com/TalMaIka/Site-Scanner) |
 | Sn1per | [Link](https://github.com/1N3/Sn1per/releases) |
-| Sublist3r | [Link](https://github.com/aboul3la/Sublist3r) |
 | SubProber | [Link](https://github.com/sanjai-AK47/Subprober) |
+| Sublist3r | [Link](https://github.com/aboul3la/Sublist3r) |
 | Telnet | [Link](https://github.com/9swampy/Telnet) |
 | XCTR-Hacking-Tools | [Link](https://github.com/capture0x/XCTR-Hacking-Tools) |
 | XSS-Automation-Tool | [Link](https://github.com/EmperialX/XSS-Automation-Tool.git) |
