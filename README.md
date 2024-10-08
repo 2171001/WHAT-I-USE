@@ -1,8 +1,9 @@
 # WHAT-I-USE
-| Tool Name | GitHub Link |
+| Tool Name | Resource Link |
 |-----------|-------------|
 | 4-ZERO-3 | [Link](https://github.com/Dheerajmadhukar/4-ZERO-3) |
 | Anubis | [Link](https://github.com/jonluca/Anubis) |
+| Asnlookup | [Link](https://github.com/yassineaboukir/Asnlookup) |
 | AutoRecon-XSS | [Link](https://github.com/un9nplayer/AutoRecon-XSS.git) |
 | CORStest | [Link](https://github.com/RUB-NDS/CORStest) |
 | CRLF-Injection-Scanner | [Link](https://github.com/MichaelStott/CRLF-Injection-Scanner) |
@@ -10,55 +11,58 @@
 | Corscan | [Link](https://github.com/Angix-Black/Corscan) |
 | Corsy | [Link](https://github.com/s0md3v/Corsy) |
 | Depix | [Link](https://github.com/JonasSchatz/DepixHMM) |
-| Element | No README.md |
-| Find IP of a domain | No README.md |
-| Game Hacking | No README.md |
-| Gopherus | No Link Found |
+| CloudFlair | [Link](https://github.com/christophetd/CloudFlair) |
+| Gopherus | [Link](https://github.com/tarunkant/Gopherus) |
 | GraphQLmap | [Link](https://github.com/swisskyrepo/GraphQLmap) |
-| Hacking Tools Pack | No README.md |
+| Gsec | [Link](https://github.com/gotr00t0day/Gsec.git) |
 | Hacking-Tools | [Link](https://github.com/aw-junaid) |
-| JSParser | No Link Found |
+| JSParser | [Link](https://github.com/nahamsec/JSParser) |
 | KitHack | [Link](https://github.com/AdrMXR/KitHack) |
 | LFISuite | [Link](https://github.com/D35m0nd142/LFISuite) |
 | LinkFinder | [Link](https://github.com/beautify-web/js-beautify) |
 | MXS | [Link](https://github.com/sarperavci/MXS) |
-| Malwarebytes | No README.md |
 | NoSQLMap | [Link](https://github.com/codingo/NoSQLMap) |
 | NucleiFuzzer | [Link](https://github.com/0xKayala/NucleiFuzzer) |
 | NucleiScanner | [Link](https://github.com/0xKayala/NucleiScanner) |
 | Oralyzer | [Link](https://github.com/r0075h3ll/Oralyzer.git) |
 | ParamSpider | [Link](https://github.com/PushkraJ99/ParamSpider) |
-| R3con1z3r | No README.md |
+| R3con1z3r | [Link](https://github.com/abdulgaphy/r3con1z3r) |
 | RED_HAWK | [Link](https://github.com/Tuhinshubhra/RED_HAWK) |
 | RTSPbrute | [Link](https://github.com/Ullaakut/cameradar) |
 | SSRFire | [Link](https://github.com/michaelben6/SSRFIRE/) |
 | SSRFmap | [Link](https://github.com/swisskyrepo/SSRFmap) |
 | SSTImap | [Link](https://github.com/vladko312/sstimap) |
+| SecLists | [Link](https://github.com/danielmiessler/SecLists) |
 | SecretFinder | [Link](https://github.com/GerbenJavado/LinkFinder) |
 | Site-Scanner | [Link](https://github.com/TalMaIka/Site-Scanner"><img) |
 | Sn1per | [Link](https://github.com/1N3/Sn1per/releases) |
+| Sublist3r | [Link](https://github.com/aboul3la/Sublist3r) |
 | SubProber | [Link](https://github.com/sanjai-AK47/Subprober/blob/main/LICENSE) |
 | Telnet | [Link](https://github.com/9swampy/Telnet/actions/workflows/build.yml/badge.svg) |
-| VAPT Tools | No README.md |
 | XCTR-Hacking-Tools | [Link](https://github.com/capture0x/XCTR-Hacking-Tools) |
 | XSS-Automation-Tool | [Link](https://github.com/EmperialX/XSS-Automation-Tool.git) |
 | XSS-LOADER | [Link](https://github.com/capture0x/XSS-LOADER) |
 | XSSGen | No Link Found |
 | XSSInspector-SecurityToolkit-AI-ML | No README.md |
 | XSStrike | [Link](https://github.com/s0md3v/XSStrike) |
-| blckhrtz | No Link Found |
+| arachni | [Link](https://github.com/Arachni/arachni) |
+| bbht | [Link](https://github.com/nahamsec/bbht.git) |
+| bearer | [Link](https://github.com/Bearer/bearer) |
+| blckhrtz | [Link](https://github.com/cyb3rzest/blckhrtz) |
+| crtndstry | [Link](https://github.com/nahamsec/crtndstry) |
 | crtsh.py | [Link](https://github.com/YashGoti/crtsh.py.git) |
-| dnscan | No Link Found |
+| dirsearch | [Link](https://github.com/maurosoria/dirsearch) |
+| dnscan | [Link](https://github.com/rbsec/dnscan) |
 | findomain | [Link](https://github.com/Edu4rdSHL/findomain) |
 | firmware-mod-kit | No README.md |
 | freq | No Link Found |
 | fsociety | [Link](https://github.com/Manisso/fsociety/blob/master/LICENSE) |
+| garak | [Link](https://github.com/leondz/garak) |
 | gasmask | [Link](https://github.com/maldevel) |
+| ghas-cli | [Link](https://github.com/Malwarebytes/ghas-cli) |
 | ghauri | [Link](https://github.com/r0oth3x49/ghauri) |
 | gitGraber | [Link](https://github.com/settings/tokens) |
 | gitools | [Link](https://github.com/Angix-Black/gitools) |
-| google | No README.md |
-| gotr00t0day | No README.md |
 | hakcheckurl | [Link](https://github.com/hakluke/hakrawler) |
 | http-request-smuggling | [Link](https://github.com/anshumanpattnaik/http-request-smuggling.git) |
 | httpx | [Link](https://github.com/projectdiscovery/httpx) |
@@ -69,23 +73,30 @@
 | legion1 | [Link](https://github.com/GoVanguard/legion) |
 | legion2 | [Link](https://github.com/carlospolop/legion.git) |
 | liffy | [Link](https://github.com/mzfr/liffy) |
-| linkedin2username | No Link Found |
+| linkedin2username | [Link](https://github.com/initstring/linkedin2username) |
+| masscan | [Link](https://github.com/robertdavidgraham/masscan) |
 | massdns | [Link](https://github.com/blechschmidt/massdns) |
-| nahamsec | No README.md |
+| nerve | [Link](https://github.com/PaytmLabs/nerve) |
 | net-spider | [Link](https://github.com/ahmed-alnassif/net-spider.git) |
 | openredirex | [Link](https://github.com/devanshbatham/OpenRedireX) |
-| razzer | No Link Found |
+| rapidscan | [Link](https://github.com/skavngr/rapidscan) |
+| razzer | [Link](https://github.com/compsec-snu/razzer) |
 | shells | [Link](https://github.com/theart42/Sharpcat) |
-| spyhunt | [Link](https://github.com/gotr00t0day/spyhunt) |
+| shortscan | [Link](https://github.com/bitquark/shortscan) |
+| spyhunt | [Link](https://github.com/gotr00t0day/spyhunt.git) |
 | sqlifinder | [Link](https://github.com/americo/sqlifinder) |
-| sublime_text | No README.md |
+| subbrute | [Link](https://github.com/TheRook/subbrute) |
 | subzy | [Link](https://github.com/PentestPad/subzy) |
 | swit-scanner | [Link](https://github.com/RedSecurity/swit-scanner.git) |
+| testssl.sh | [Link](https://github.com/drwetter/testssl.sh.git) |
 | unicorn | No Link Found |
+| valhalla | [Link](https://github.com/gotr00t0day/valhalla.git) |
 | vasuki | [Link](https://github.com/cyb3rzest/Vasuki) |
 | vt-cli | [Link](https://github.com/VirusTotal/vt-cli) |
+| vulscan | [Link](https://github.com/scipag/vulscan) |
 | waymore | [Link](https://github.com/xnl-h4ck3r/waymore) |
 | webkiller | [Link](https://github.com/ultrasecurity/webkiller.git) |
+| webvapt | [Link](https://github.com/paciente23256/webvapt) |
 | xnLinkFinder | [Link](https://github.com/xnl-h4ck3r/xnLinkFinder) |
 | xssFuzz | [Link](https://github.com/Asperis-Security/xssFuzz) |
 | xss_vibes | [Link](https://github.com/faiyazahmad07/xss_vibes) |
