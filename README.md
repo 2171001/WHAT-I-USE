@@ -78,35 +78,35 @@
 | legion2 | [Link](https://github.com/carlospolop/legion.git) | General Security |
 | liffy | [Link](https://github.com/mzfr/liffy) | General Security |
 | linkedin2username | [Link](https://github.com/initstring/linkedin2username) | Reconnaissance |
-| masscan | [Link](https://github.com/robertdavidgraham/masscan) |
-| massdns | [Link](https://github.com/blechschmidt/massdns) |
-| nerve | [Link](https://github.com/PaytmLabs/nerve) |
-| net-spider | [Link](https://github.com/ahmed-alnassif/net-spider.git) |
-| openredirex | [Link](https://github.com/devanshbatham/OpenRedireX) |
-| rapidscan | [Link](https://github.com/skavngr/rapidscan) |
-| razzer | [Link](https://github.com/compsec-snu/razzer) |
-| shells | [Link](https://github.com/4ndr34z/shells) |
-| shortscan | [Link](https://github.com/bitquark/shortscan) |
-| spyhunt | [Link](https://github.com/gotr00t0day/spyhunt.git) |
-| sqlifinder | [Link](https://github.com/americo/sqlifinder) |
-| sqlmap | [Link](https://github.com/sqlmapproject/sqlmap) |
-| subbrute | [Link](https://github.com/TheRook/subbrute) |
-| subzy | [Link](https://github.com/PentestPad/subzy) |
-| swit-scanner | [Link](https://github.com/RedSecurity/swit-scanner.git) |
-| testssl.sh | [Link](https://github.com/drwetter/testssl.sh.git) |
-| unicornscan | [Link](https://www.kali.org/tools/unicornscan/) |
-| valhalla | [Link](https://github.com/gotr00t0day/valhalla.git) |
-| vasuki | [Link](https://github.com/cyb3rzest/Vasuki) |
-| virtual-host-discovery | [Link](https://github.com/jobertabma/virtual-host-discovery) |
-| vt-cli | [Link](https://github.com/VirusTotal/vt-cli) |
-| vulscan | [Link](https://github.com/scipag/vulscan) |
-| waymore | [Link](https://github.com/xnl-h4ck3r/waymore) |
-| webkiller | [Link](https://github.com/ultrasecurity/webkiller.git) |
-| webvapt | [Link](https://github.com/paciente23256/webvapt) |
-| wpscan | [Link](https://github.com/wpscanteam/wpscan) |
-| xnLinkFinder | [Link](https://github.com/xnl-h4ck3r/xnLinkFinder) |
-| xssFuzz | [Link](https://github.com/Asperis-Security/xssFuzz) |
-| xss_vibes | [Link](https://github.com/faiyazahmad07/xss_vibes) |
-| xsser | [Link](https://github.com/epsylon/xsser) |
-| xsshunter | [Link](https://github.com/mandatoryprogrammer/xsshunter) |
-| zphisher | [Link](https://github.com/htr-tech/zphisher.git) |
+| masscan | [Link](https://github.com/robertdavidgraham/masscan) | Networking |
+| massdns | [Link](https://github.com/blechschmidt/massdns) | Networking |
+| nerve | [Link](https://github.com/PaytmLabs/nerve) | Reconnaissance |
+| net-spider | [Link](https://github.com/ahmed-alnassif/net-spider.git) | Networking |
+| openredirex | [Link](https://github.com/devanshbatham/OpenRedireX) | Web Security |
+| rapidscan | [Link](https://github.com/skavngr/rapidscan) | Web Security |
+| razzer | [Link](https://github.com/compsec-snu/razzer) | General Security |
+| shells | [Link](https://github.com/4ndr34z/shells) | Web Security |
+| shortscan | [Link](https://github.com/bitquark/shortscan) | Web Security |
+| spyhunt | [Link](https://github.com/gotr00t0day/spyhunt.git) | Reconnaissance |
+| sqlifinder | [Link](https://github.com/americo/sqlifinder) | Web Security |
+| sqlmap | [Link](https://github.com/sqlmapproject/sqlmap) | Web Security |
+| subbrute | [Link](https://github.com/TheRook/subbrute) | Reconnaissance |
+| subzy | [Link](https://github.com/PentestPad/subzy) | Reconnaissance |
+| swit-scanner | [Link](https://github.com/RedSecurity/swit-scanner.git) | Web Security |
+| testssl.sh | [Link](https://github.com/drwetter/testssl.sh.git) | Security |
+| unicornscan | [Link](https://www.kali.org/tools/unicornscan/) | Networking |
+| valhalla | [Link](https://github.com/gotr00t0day/valhalla.git) | Web Security |
+| vasuki | [Link](https://github.com/cyb3rzest/Vasuki) | Web Security |
+| virtual-host-discovery | [Link](https://github.com/jobertabma/virtual-host-discovery) | Web Security |
+| vt-cli | [Link](https://github.com/VirusTotal/vt-cli) | Security |
+| vulscan | [Link](https://github.com/scipag/vulscan) | Web Security |
+| waymore | [Link](https://github.com/xnl-h4ck3r/waymore) | Web Security |
+| webkiller | [Link](https://github.com/ultrasecurity/webkiller.git) | Web Security |
+| webvapt | [Link](https://github.com/paciente23256/webvapt) | Web Security |
+| wpscan | [Link](https://github.com/wpscanteam/wpscan) | Web Security |
+| xnLinkFinder | [Link](https://github.com/xnl-h4ck3r/xnLinkFinder) | Web Security |
+| xssFuzz | [Link](https://github.com/Asperis-Security/xssFuzz) | Web Security |
+| xss_vibes | [Link](https://github.com/faiyazahmad07/xss_vibes) | Web Security |
+| xsser | [Link](https://github.com/epsylon/xsser) | Web Security |
+| xsshunter | [Link](https://github.com/mandatoryprogrammer/xsshunter) | Web Security |
+| zphisher | [Link](https://github.com/htr-tech/zphisher.git) | Web Security |
