@@ -4,9 +4,9 @@
 | 4-ZERO-3 | [Link](https://github.com/Dheerajmadhukar/4-ZERO-3) |
 | Anubis | [Link](https://github.com/jonluca/Anubis) |
 | AutoRecon-XSS | [Link](https://github.com/un9nplayer/AutoRecon-XSS.git) |
-| CORStest | No Link Found |
-| CRLF-Injection-Scanner | No Link Found |
-| CTF-Games | No README.md |
+| CORStest | [Link](https://github.com/RUB-NDS/CORStest) |
+| CRLF-Injection-Scanner | [Link](https://github.com/MichaelStott/CRLF-Injection-Scanner) |
+| CRLFsuite | [Link](https://github.com/Raghavd3v/CRLFsuite) |
 | Corscan | [Link](https://github.com/Angix-Black/Corscan) |
 | Corsy | [Link](https://github.com/s0md3v/Corsy) |
 | Depix | [Link](https://github.com/JonasSchatz/DepixHMM) |
