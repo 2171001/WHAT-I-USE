@@ -106,6 +106,6 @@
 | xnLinkFinder | [Link](https://github.com/xnl-h4ck3r/xnLinkFinder) |
 | xssFuzz | [Link](https://github.com/Asperis-Security/xssFuzz) |
 | xss_vibes | [Link](https://github.com/faiyazahmad07/xss_vibes) |
-| xsser | No Link Found |
+| xsser | [Link](https://github.com/epsylon/xsser) |
 | xsshunter | [Link](https://github.com/mandatoryprogrammer/xsshunter) |
 | zphisher | [Link](https://github.com/htr-tech/zphisher.git) |
