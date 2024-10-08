@@ -1,6 +1,6 @@
 # WHAT-I-USE
-| Tool Name | Resource Link |
-|-----------|-------------|
+| Tool Name | Description | Resource Link |
+|-----------|-------------|---------------|
 | 4-ZERO-3 | [Link](https://github.com/Dheerajmadhukar/4-ZERO-3) |
 | Anubis | [Link](https://github.com/jonluca/Anubis) |
 | Asnlookup | [Link](https://github.com/yassineaboukir/Asnlookup) |
