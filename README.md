@@ -2,6 +2,7 @@
 | Tool Name | Resource Link | Category |
 |-----------|---------------|----------|
 | 4-ZERO-3 | [Link](https://github.com/Dheerajmadhukar/4-ZERO-3) | Scanning |
+| AIDE | [Link]() | Intrusion Detection |
 | Anubis | [Link](https://github.com/jonluca/Anubis) | Reconnaissance |
 | Asnlookup | [Link](https://github.com/yassineaboukir/Asnlookup) | Networking |
 | AutoRecon-XSS | [Link](https://github.com/un9nplayer/AutoRecon-XSS.git) | Web Security |
