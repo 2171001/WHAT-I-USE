@@ -1,83 +1,83 @@
 # WHAT-I-USE
-| Tool Name | Description | Resource Link |
-|-----------|-------------|---------------|
-| 4-ZERO-3 | [Link](https://github.com/Dheerajmadhukar/4-ZERO-3) |
-| Anubis | [Link](https://github.com/jonluca/Anubis) |
-| Asnlookup | [Link](https://github.com/yassineaboukir/Asnlookup) |
-| AutoRecon-XSS | [Link](https://github.com/un9nplayer/AutoRecon-XSS.git) |
-| CORStest | [Link](https://github.com/RUB-NDS/CORStest) |
-| CRLF-Injection-Scanner | [Link](https://github.com/MichaelStott/CRLF-Injection-Scanner) |
-| CRLFsuite | [Link](https://github.com/Raghavd3v/CRLFsuite) |
-| CloudFlair | [Link](https://github.com/christophetd/CloudFlair) |
-| Corscan | [Link](https://github.com/Angix-Black/Corscan) |
-| Corsy | [Link](https://github.com/s0md3v/Corsy) |
-| Depix | [Link](https://github.com/JonasSchatz/DepixHMM) |
-| Gopherus | [Link](https://github.com/tarunkant/Gopherus) |
-| GraphQLmap | [Link](https://github.com/swisskyrepo/GraphQLmap) |
-| Gsec | [Link](https://github.com/gotr00t0day/Gsec.git) |
-| Hacking-Tools | [Link](https://github.com/aw-junaid) |
-| JSParser | [Link](https://github.com/nahamsec/JSParser) |
-| KitHack | [Link](https://github.com/AdrMXR/KitHack) |
-| LFISuite | [Link](https://github.com/D35m0nd142/LFISuite) |
-| LinkFinder | [Link](https://github.com/beautify-web/js-beautify) |
-| MXS | [Link](https://github.com/sarperavci/MXS) |
-| NoSQLMap | [Link](https://github.com/codingo/NoSQLMap) |
-| NucleiFuzzer | [Link](https://github.com/0xKayala/NucleiFuzzer) |
-| NucleiScanner | [Link](https://github.com/0xKayala/NucleiScanner) |
-| Oralyzer | [Link](https://github.com/r0075h3ll/Oralyzer.git) |
-| ParamSpider | [Link](https://github.com/PushkraJ99/ParamSpider) |
-| R3con1z3r | [Link](https://github.com/abdulgaphy/r3con1z3r) |
-| RED_HAWK | [Link](https://github.com/Tuhinshubhra/RED_HAWK) |
-| RTSPbrute | [Link](https://github.com/Ullaakut/cameradar) |
-| SSRFire | [Link](https://github.com/michaelben6/SSRFIRE) |
-| SSRFmap | [Link](https://github.com/swisskyrepo/SSRFmap) |
-| SSTImap | [Link](https://github.com/vladko312/sstimap) |
-| SecLists | [Link](https://github.com/danielmiessler/SecLists) |
-| SecretFinder | [Link](https://github.com/GerbenJavado/LinkFinder) |
-| Sharpcat | [Link](https://github.com/theart42/Sharpcat) |
-| Site-Scanner | [Link](https://github.com/TalMaIka/Site-Scanner) |
-| Sn1per | [Link](https://github.com/1N3/Sn1per/releases) |
-| SubProber | [Link](https://github.com/sanjai-AK47/Subprober) |
-| Sublist3r | [Link](https://github.com/aboul3la/Sublist3r) |
-| Telnet | [Link](https://github.com/9swampy/Telnet) |
-| XCTR-Hacking-Tools | [Link](https://github.com/capture0x/XCTR-Hacking-Tools) |
-| XSS-Automation-Tool | [Link](https://github.com/EmperialX/XSS-Automation-Tool.git) |
-| XSS-LOADER | [Link](https://github.com/capture0x/XSS-LOADER) |
-| XSSGen | [Link](https://github.com/Mr-dark55/XSSGen) |
-| XSSInspector-SecurityToolkit-AI-ML | [Link](https://github.com/haroonawanofficial/XSSInspector-SecurityToolkit-AI-ML) |
-| XSStrike | [Link](https://github.com/s0md3v/XSStrike) |
-| arachni | [Link](https://github.com/Arachni/arachni) |
-| bbht | [Link](https://github.com/nahamsec/bbht.git) |
-| bearer | [Link](https://github.com/Bearer/bearer) |
-| blckhrtz | [Link](https://github.com/cyb3rzest/blckhrtz) |
-| crtndstry | [Link](https://github.com/nahamsec/crtndstry) |
-| crtsh.py | [Link](https://github.com/YashGoti/crtsh.py.git) |
-| dirsearch | [Link](https://github.com/maurosoria/dirsearch) |
-| dnscan | [Link](https://github.com/rbsec/dnscan) |
-| findomain | [Link](https://github.com/Edu4rdSHL/findomain) |
-| firmware-mod-kit | [Link](https://github.com/rampageX/firmware-mod-kit) |
-| freq | [Link](https://github.com/takshal/freq) |
-| fsociety | [Link](https://github.com/Manisso/fsociety) |
-| garak | [Link](https://github.com/leondz/garak) |
-| gasmask | [Link](https://github.com/maldevel) |
-| ghas-cli | [Link](https://github.com/Malwarebytes/ghas-cli) |
-| ghauri | [Link](https://github.com/r0oth3x49/ghauri) |
-| gitGraber | [Link](https://github.com/settings/tokens) |
-| gitools | [Link](https://github.com/Angix-Black/gitools) |
-| hakcheckurl | [Link](https://github.com/hakluke/hakrawler) |
-| http-request-smuggling | [Link](https://github.com/anshumanpattnaik/http-request-smuggling.git) |
-| httpx | [Link](https://github.com/projectdiscovery/httpx) |
-| jexboss | [Link](https://github.com/joaomatosf/jexboss.git) |
-| kali-whoami | [Link](https://github.com/omer-dogan/kali-whoami) |
-| karma_v2 | [Link](https://github.com/Dheerajmadhukar/karma_v2.git) |
-| katana | [Link](https://github.com/projectdiscovery/katana) |
-| knock | [Link](https://github.com/guelfoweb/knock) |
-| lazyrecon | [Link](https://github.com/plenumlab/lazyrecon) |
-| lazys3 | [Link](https://github.com/nahamsec/lazys3) |
-| legion1 | [Link](https://github.com/GoVanguard/legion) |
-| legion2 | [Link](https://github.com/carlospolop/legion.git) |
-| liffy | [Link](https://github.com/mzfr/liffy) |
-| linkedin2username | [Link](https://github.com/initstring/linkedin2username) |
+| Tool Name | Resource Link | Category |
+|-----------|---------------|----------|
+| 4-ZERO-3 | [Link](https://github.com/Dheerajmadhukar/4-ZERO-3) | Scanning |
+| Anubis | [Link](https://github.com/jonluca/Anubis) | Reconnaissance |
+| Asnlookup | [Link](https://github.com/yassineaboukir/Asnlookup) | Networking |
+| AutoRecon-XSS | [Link](https://github.com/un9nplayer/AutoRecon-XSS.git) | Web Security |
+| CORStest | [Link](https://github.com/RUB-NDS/CORStest) | Web Security |
+| CRLF-Injection-Scanner | [Link](https://github.com/MichaelStott/CRLF-Injection-Scanner) | Web Security |
+| CRLFsuite | [Link](https://github.com/Raghavd3v/CRLFsuite) | Web Security |
+| CloudFlair | [Link](https://github.com/christophetd/CloudFlair) | Web Security |
+| Corscan | [Link](https://github.com/Angix-Black/Corscan) | Web Security |
+| Corsy | [Link](https://github.com/s0md3v/Corsy) | Web Security |
+| Depix | [Link](https://github.com/JonasSchatz/DepixHMM) | Web Security |
+| Gopherus | [Link](https://github.com/tarunkant/Gopherus) | Reconnaissance |
+| GraphQLmap | [Link](https://github.com/swisskyrepo/GraphQLmap) | Web Security |
+| Gsec | [Link](https://github.com/gotr00t0day/Gsec.git) | Web Security |
+| Hacking-Tools | [Link](https://github.com/aw-junaid) | General Security |
+| JSParser | [Link](https://github.com/nahamsec/JSParser) | Web Security |
+| KitHack | [Link](https://github.com/AdrMXR/KitHack) | General Security |
+| LFISuite | [Link](https://github.com/D35m0nd142/LFISuite) | Web Security |
+| LinkFinder | [Link](https://github.com/beautify-web/js-beautify) | Web Security |
+| MXS | [Link](https://github.com/sarperavci/MXS) | Web Security |
+| NoSQLMap | [Link](https://github.com/codingo/NoSQLMap) | Web Security |
+| NucleiFuzzer | [Link](https://github.com/0xKayala/NucleiFuzzer) | Web Security |
+| NucleiScanner | [Link](https://github.com/0xKayala/NucleiScanner) | Web Security|
+| Oralyzer | [Link](https://github.com/r0075h3ll/Oralyzer.git) | Web Security |
+| ParamSpider | [Link](https://github.com/PushkraJ99/ParamSpider) | Web Security |
+| R3con1z3r | [Link](https://github.com/abdulgaphy/r3con1z3r) | Reconnaissance |
+| RED_HAWK | [Link](https://github.com/Tuhinshubhra/RED_HAWK) | Reconnaissance |
+| RTSPbrute | [Link](https://github.com/Ullaakut/cameradar) | Exploitation |
+| SSRFire | [Link](https://github.com/michaelben6/SSRFIRE) | Web Security |
+| SSRFmap | [Link](https://github.com/swisskyrepo/SSRFmap) | Web Security |
+| SSTImap | [Link](https://github.com/vladko312/sstimap) | Web Security |
+| SecLists | [Link](https://github.com/danielmiessler/SecLists) | General Security |
+| SecretFinder | [Link](https://github.com/GerbenJavado/LinkFinder) | Reconnaissance |
+| Sharpcat | [Link](https://github.com/theart42/Sharpcat) | Web Security |
+| Site-Scanner | [Link](https://github.com/TalMaIka/Site-Scanner) | Web Security |
+| Sn1per | [Link](https://github.com/1N3/Sn1per/releases) | General Security |
+| SubProber | [Link](https://github.com/sanjai-AK47/Subprober) | Reconnaissance |
+| Sublist3r | [Link](https://github.com/aboul3la/Sublist3r) | Reconnaissance |
+| Telnet | [Link](https://github.com/9swampy/Telnet) | Networking |
+| XCTR-Hacking-Tools | [Link](https://github.com/capture0x/XCTR-Hacking-Tools) | General Security |
+| XSS-Automation-Tool | [Link](https://github.com/EmperialX/XSS-Automation-Tool.git) | Web Security |
+| XSS-LOADER | [Link](https://github.com/capture0x/XSS-LOADER) | Web Security |
+| XSSGen | [Link](https://github.com/Mr-dark55/XSSGen) | Web Security |
+| XSSInspector-SecurityToolkit-AI-ML | [Link](https://github.com/haroonawanofficial/XSSInspector-SecurityToolkit-AI-ML) | Web Security |
+| XSStrike | [Link](https://github.com/s0md3v/XSStrike) | Web Security |
+| arachni | [Link](https://github.com/Arachni/arachni) | Web Security |
+| bbht | [Link](https://github.com/nahamsec/bbht.git) | Exploitation |
+| bearer | [Link](https://github.com/Bearer/bearer) | Web Security |
+| blckhrtz | [Link](https://github.com/cyb3rzest/blckhrtz) | Web Security |
+| crtndstry | [Link](https://github.com/nahamsec/crtndstry) | Networking |
+| crtsh.py | [Link](https://github.com/YashGoti/crtsh.py.git) | Networking |
+| dirsearch | [Link](https://github.com/maurosoria/dirsearch) | Web Security |
+| dnscan | [Link](https://github.com/rbsec/dnscan) | Networking |
+| findomain | [Link](https://github.com/Edu4rdSHL/findomain) | Reconnaissance |
+| firmware-mod-kit | [Link](https://github.com/rampageX/firmware-mod-kit) | General Security |
+| freq | [Link](https://github.com/takshal/freq) | Reconnaissance |
+| fsociety | [Link](https://github.com/Manisso/fsociety) | General Security |
+| garak | [Link](https://github.com/leondz/garak) | Reconnaissance |
+| gasmask | [Link](https://github.com/maldevel) | Security |
+| ghas-cli | [Link](https://github.com/Malwarebytes/ghas-cli) | Reconnaissance |
+| ghauri | [Link](https://github.com/r0oth3x49/ghauri) | Web Security |
+| gitGraber | [Link](https://github.com/settings/tokens) | Reconnaissance |
+| gitools | [Link](https://github.com/Angix-Black/gitools) | General Security |
+| hakcheckurl | [Link](https://github.com/hakluke/hakrawler) | Web Security |
+| http-request-smuggling | [Link](https://github.com/anshumanpattnaik/http-request-smuggling.git) | Web Security |
+| httpx | [Link](https://github.com/projectdiscovery/httpx) | Web Security |
+| jexboss | [Link](https://github.com/joaomatosf/jexboss.git) | Web Security |
+| kali-whoami | [Link](https://github.com/omer-dogan/kali-whoami) | General Security |
+| karma_v2 | [Link](https://github.com/Dheerajmadhukar/karma_v2.git) | General Security |
+| katana | [Link](https://github.com/projectdiscovery/katana) | Web Security |
+| knock | [Link](https://github.com/guelfoweb/knock) | Reconnaissance |
+| lazyrecon | [Link](https://github.com/plenumlab/lazyrecon) | Reconnaissance |
+| lazys3 | [Link](https://github.com/nahamsec/lazys3) | Cloud Security |
+| legion1 | [Link](https://github.com/GoVanguard/legion) | General Security |
+| legion2 | [Link](https://github.com/carlospolop/legion.git) | General Security |
+| liffy | [Link](https://github.com/mzfr/liffy) | General Security |
+| linkedin2username | [Link](https://github.com/initstring/linkedin2username) | Reconnaissance |
 | masscan | [Link](https://github.com/robertdavidgraham/masscan) |
 | massdns | [Link](https://github.com/blechschmidt/massdns) |
 | nerve | [Link](https://github.com/PaytmLabs/nerve) |
