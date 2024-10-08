@@ -102,6 +102,7 @@
 | vasuki | [Link](https://github.com/cyb3rzest/Vasuki) | Web Security |
 | virtual-host-discovery | [Link](https://github.com/jobertabma/virtual-host-discovery) | Web Security |
 | vnstat | Install Manually(sudo apt  install vnstat) | Networking |
+| volatility | [Link](https://github.com/volatilityfoundation/volatility) | Forensics |
 | vt-cli | [Link](https://github.com/VirusTotal/vt-cli) | Security |
 | vulscan | [Link](https://github.com/scipag/vulscan) | Web Security |
 | waymore | [Link](https://github.com/xnl-h4ck3r/waymore) | Web Security |
