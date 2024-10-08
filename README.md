@@ -70,6 +70,7 @@
 | kali-whoami | [Link](https://github.com/omer-dogan/kali-whoami) |
 | karma_v2 | [Link](https://github.com/Dheerajmadhukar/karma_v2.git) |
 | katana | [Link](https://github.com/projectdiscovery/katana) |
+| knock | [Link](https://github.com/guelfoweb/knock) |
 | legion1 | [Link](https://github.com/GoVanguard/legion) |
 | legion2 | [Link](https://github.com/carlospolop/legion.git) |
 | liffy | [Link](https://github.com/mzfr/liffy) |
