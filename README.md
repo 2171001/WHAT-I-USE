@@ -2,7 +2,7 @@
 | Tool Name | Resource Link | Category |
 |-----------|---------------|----------|
 | 4-ZERO-3 | [Link](https://github.com/Dheerajmadhukar/4-ZERO-3) | Scanning |
-| AIDE | [Link]() | Intrusion Detection |
+| AIDE | Install Manually(sudo apt install aide) | Intrusion Detection |
 | Anubis | [Link](https://github.com/jonluca/Anubis) | Reconnaissance |
 | Asnlookup | [Link](https://github.com/yassineaboukir/Asnlookup) | Networking |
 | AutoRecon-XSS | [Link](https://github.com/un9nplayer/AutoRecon-XSS.git) | Web Security |
@@ -51,6 +51,7 @@
 | bbht | [Link](https://github.com/nahamsec/bbht.git) | Exploitation |
 | bearer | [Link](https://github.com/Bearer/bearer) | Web Security |
 | blckhrtz | [Link](https://github.com/cyb3rzest/blckhrtz) | Web Security |
+| creepy | [Link](http://www.geocreepy.com/) | Reconnaissance |
 | crtndstry | [Link](https://github.com/nahamsec/crtndstry) | Networking |
 | crtsh.py | [Link](https://github.com/YashGoti/crtsh.py.git) | Networking |
 | dirsearch | [Link](https://github.com/maurosoria/dirsearch) | Web Security |
@@ -84,6 +85,7 @@
 | nerve | [Link](https://github.com/PaytmLabs/nerve) | Reconnaissance |
 | net-spider | [Link](https://github.com/ahmed-alnassif/net-spider.git) | Networking |
 | openredirex | [Link](https://github.com/devanshbatham/OpenRedireX) | Web Security |
+| pipal | [Link](https://www.kali.org/tools/pipal/) | Password Security |
 | rapidscan | [Link](https://github.com/skavngr/rapidscan) | Web Security |
 | razzer | [Link](https://github.com/compsec-snu/razzer) | General Security |
 | shells | [Link](https://github.com/4ndr34z/shells) | Web Security |
@@ -99,6 +101,7 @@
 | valhalla | [Link](https://github.com/gotr00t0day/valhalla.git) | Web Security |
 | vasuki | [Link](https://github.com/cyb3rzest/Vasuki) | Web Security |
 | virtual-host-discovery | [Link](https://github.com/jobertabma/virtual-host-discovery) | Web Security |
+| vnstat | Install Manually(sudo apt  install vnstat) | Networking |
 | vt-cli | [Link](https://github.com/VirusTotal/vt-cli) | Security |
 | vulscan | [Link](https://github.com/scipag/vulscan) | Web Security |
 | waymore | [Link](https://github.com/xnl-h4ck3r/waymore) | Web Security |
