@@ -50,6 +50,7 @@
 | amass | [Link](https://github.com/owasp-amass/amass) | Reconnaissance |
 | arachni | [Link](https://github.com/Arachni/arachni) | Web Security |
 | assetfinder | [Link](https://www.kali.org/tools/assetfinder) | Reconnaissance |
+| autorecon | [Link](https://www.kali.org/tools/autorecon) | Reconnaissance |
 | bbht | [Link](https://github.com/nahamsec/bbht.git) | Exploitation |
 | bbot | [Link](https://github.com/blacklanternsecurity/bbot) | Penetration Testing |
 | bearer | [Link](https://github.com/Bearer/bearer) | Web Security |
@@ -87,6 +88,7 @@
 | massdns | [Link](https://github.com/blechschmidt/massdns) | Networking |
 | nerve | [Link](https://github.com/PaytmLabs/nerve) | Reconnaissance |
 | net-spider | [Link](https://github.com/ahmed-alnassif/net-spider.git) | Networking |
+| nipper | [Link](https://www.kali.org/tools/nipper-ng) | Security Assessment |
 | openredirex | [Link](https://github.com/devanshbatham/OpenRedireX) | Web Security |
 | pipal | [Link](https://www.kali.org/tools/pipal/) | Password Security |
 | rapidscan | [Link](https://github.com/skavngr/rapidscan) | Web Security |
@@ -108,6 +110,7 @@
 | volatility | [Link](https://github.com/volatilityfoundation/volatility) | Forensics |
 | vt-cli | [Link](https://github.com/VirusTotal/vt-cli) | Security |
 | vulscan | [Link](https://github.com/scipag/vulscan) | Web Security |
+| wapiti | [Link](https://www.kali.org/tools/wapiti) | Web Security |
 | waymore | [Link](https://github.com/xnl-h4ck3r/waymore) | Web Security |
 | webkiller | [Link](https://github.com/ultrasecurity/webkiller.git) | Web Security |
 | webvapt | [Link](https://github.com/paciente23256/webvapt) | Web Security |
