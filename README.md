@@ -1,15 +1,15 @@
 # WHAT-I-USE
 | Tool Name | GitHub Link |
 |-----------|-------------|
-| 4-ZERO-3 | [Link](https://github.com/Dheerajmadhukar/4-ZERO-3/blob/main/img/4-ZERO-3_priview.gif)) |
-| Anubis | [Link](https://github.com/jonluca/Anubis/blob/master/coverage.svg)) |
+| 4-ZERO-3 | [Link](https://github.com/Dheerajmadhukar/4-ZERO-3/) |
+| Anubis | [Link](https://github.com/jonluca/Anubis/) |
 | AutoRecon-XSS | [Link](https://github.com/un9nplayer/AutoRecon-XSS.git) |
 | CORStest | No Link Found |
 | CRLF-Injection-Scanner | No Link Found |
 | CTF-Games | No README.md |
-| Corscan | [Link](https://github.com/Angix-Black/Corscan?tab=MIT-1-ov-file") |
-| Corsy | [Link](https://github.com/s0md3v/Corsy"><img) |
-| Depix | [Link](https://github.com/JonasSchatz/DepixHMM).) |
+| Corscan | [Link](https://github.com/Angix-Black/Corscan") |
+| Corsy | [Link](https://github.com/s0md3v/Corsy) |
+| Depix | [Link](https://github.com/JonasSchatz/DepixHMM) |
 | Element | No README.md |
 | Find IP of a domain | No README.md |
 | Game Hacking | No README.md |
