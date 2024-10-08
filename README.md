@@ -34,6 +34,7 @@
 | SSTImap | [Link](https://github.com/vladko312/sstimap) |
 | SecLists | [Link](https://github.com/danielmiessler/SecLists) |
 | SecretFinder | [Link](https://github.com/GerbenJavado/LinkFinder) |
+| Sharpcat | [Link](https://github.com/theart42/Sharpcat) |
 | Site-Scanner | [Link](https://github.com/TalMaIka/Site-Scanner) |
 | Sn1per | [Link](https://github.com/1N3/Sn1per/releases) |
 | SubProber | [Link](https://github.com/sanjai-AK47/Subprober) |
@@ -84,7 +85,7 @@
 | openredirex | [Link](https://github.com/devanshbatham/OpenRedireX) |
 | rapidscan | [Link](https://github.com/skavngr/rapidscan) |
 | razzer | [Link](https://github.com/compsec-snu/razzer) |
-| shells | [Link](https://github.com/theart42/Sharpcat) |
+| shells | [Link](https://github.com/4ndr34z/shells) |
 | shortscan | [Link](https://github.com/bitquark/shortscan) |
 | spyhunt | [Link](https://github.com/gotr00t0day/spyhunt.git) |
 | sqlifinder | [Link](https://github.com/americo/sqlifinder) |
