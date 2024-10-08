@@ -70,6 +70,7 @@
 | legion2 | [Link](https://github.com/carlospolop/legion.git) |
 | liffy | [Link](https://github.com/mzfr/liffy) |
 | linkedin2username | No Link Found |
+| massdns | [Link](https://github.com/blechschmidt/massdns) |
 | nahamsec | No README.md |
 | net-spider | [Link](https://github.com/ahmed-alnassif/net-spider.git) |
 | openredirex | [Link](https://github.com/devanshbatham/OpenRedireX) |
