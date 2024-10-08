@@ -109,4 +109,4 @@
 | xss_vibes | [Link](https://github.com/faiyazahmad07/xss_vibes) | Web Security |
 | xsser | [Link](https://github.com/epsylon/xsser) | Web Security |
 | xsshunter | [Link](https://github.com/mandatoryprogrammer/xsshunter) | Web Security |
-| zphisher | [Link](https://github.com/htr-tech/zphisher.git) | Web Security |
+| zphisher | [Link](https://github.com/htr-tech/zphisher.git) | Social Engineering |
