@@ -29,21 +29,21 @@
 | R3con1z3r | [Link](https://github.com/abdulgaphy/r3con1z3r) |
 | RED_HAWK | [Link](https://github.com/Tuhinshubhra/RED_HAWK) |
 | RTSPbrute | [Link](https://github.com/Ullaakut/cameradar) |
-| SSRFire | [Link](https://github.com/michaelben6/SSRFIRE/) |
+| SSRFire | [Link](https://github.com/michaelben6/SSRFIRE) |
 | SSRFmap | [Link](https://github.com/swisskyrepo/SSRFmap) |
 | SSTImap | [Link](https://github.com/vladko312/sstimap) |
 | SecLists | [Link](https://github.com/danielmiessler/SecLists) |
 | SecretFinder | [Link](https://github.com/GerbenJavado/LinkFinder) |
-| Site-Scanner | [Link](https://github.com/TalMaIka/Site-Scanner"><img) |
+| Site-Scanner | [Link](https://github.com/TalMaIka/Site-Scanner) |
 | Sn1per | [Link](https://github.com/1N3/Sn1per/releases) |
 | Sublist3r | [Link](https://github.com/aboul3la/Sublist3r) |
-| SubProber | [Link](https://github.com/sanjai-AK47/Subprober/blob/main/LICENSE) |
-| Telnet | [Link](https://github.com/9swampy/Telnet/actions/workflows/build.yml/badge.svg) |
+| SubProber | [Link](https://github.com/sanjai-AK47/Subprober) |
+| Telnet | [Link](https://github.com/9swampy/Telnet) |
 | XCTR-Hacking-Tools | [Link](https://github.com/capture0x/XCTR-Hacking-Tools) |
 | XSS-Automation-Tool | [Link](https://github.com/EmperialX/XSS-Automation-Tool.git) |
 | XSS-LOADER | [Link](https://github.com/capture0x/XSS-LOADER) |
-| XSSGen | No Link Found |
-| XSSInspector-SecurityToolkit-AI-ML | No README.md |
+| XSSGen | [Link](https://github.com/Mr-dark55/XSSGen) |
+| XSSInspector-SecurityToolkit-AI-ML | [Link](https://github.com/haroonawanofficial/XSSInspector-SecurityToolkit-AI-ML) |
 | XSStrike | [Link](https://github.com/s0md3v/XSStrike) |
 | arachni | [Link](https://github.com/Arachni/arachni) |
 | bbht | [Link](https://github.com/nahamsec/bbht.git) |
@@ -54,9 +54,9 @@
 | dirsearch | [Link](https://github.com/maurosoria/dirsearch) |
 | dnscan | [Link](https://github.com/rbsec/dnscan) |
 | findomain | [Link](https://github.com/Edu4rdSHL/findomain) |
-| firmware-mod-kit | No README.md |
-| freq | No Link Found |
-| fsociety | [Link](https://github.com/Manisso/fsociety/blob/master/LICENSE) |
+| firmware-mod-kit | [Link](https://github.com/rampageX/firmware-mod-kit) |
+| freq | [Link](https://github.com/takshal/freq) |
+| fsociety | [Link](https://github.com/Manisso/fsociety) |
 | garak | [Link](https://github.com/leondz/garak) |
 | gasmask | [Link](https://github.com/maldevel) |
 | ghas-cli | [Link](https://github.com/Malwarebytes/ghas-cli) |
@@ -71,6 +71,8 @@
 | karma_v2 | [Link](https://github.com/Dheerajmadhukar/karma_v2.git) |
 | katana | [Link](https://github.com/projectdiscovery/katana) |
 | knock | [Link](https://github.com/guelfoweb/knock) |
+| lazyrecon | [Link](https://github.com/plenumlab/lazyrecon) |
+| lazys3 | [Link](https://github.com/nahamsec/lazys3) |
 | legion1 | [Link](https://github.com/GoVanguard/legion) |
 | legion2 | [Link](https://github.com/carlospolop/legion.git) |
 | liffy | [Link](https://github.com/mzfr/liffy) |
@@ -86,18 +88,21 @@
 | shortscan | [Link](https://github.com/bitquark/shortscan) |
 | spyhunt | [Link](https://github.com/gotr00t0day/spyhunt.git) |
 | sqlifinder | [Link](https://github.com/americo/sqlifinder) |
+| sqlmap | [Link](https://github.com/sqlmapproject/sqlmap) |
 | subbrute | [Link](https://github.com/TheRook/subbrute) |
 | subzy | [Link](https://github.com/PentestPad/subzy) |
 | swit-scanner | [Link](https://github.com/RedSecurity/swit-scanner.git) |
 | testssl.sh | [Link](https://github.com/drwetter/testssl.sh.git) |
-| unicorn | No Link Found |
+| unicornscan | [Link](https://www.kali.org/tools/unicornscan/) |
 | valhalla | [Link](https://github.com/gotr00t0day/valhalla.git) |
 | vasuki | [Link](https://github.com/cyb3rzest/Vasuki) |
+| virtual-host-discovery | [Link](https://github.com/jobertabma/virtual-host-discovery) |
 | vt-cli | [Link](https://github.com/VirusTotal/vt-cli) |
 | vulscan | [Link](https://github.com/scipag/vulscan) |
 | waymore | [Link](https://github.com/xnl-h4ck3r/waymore) |
 | webkiller | [Link](https://github.com/ultrasecurity/webkiller.git) |
 | webvapt | [Link](https://github.com/paciente23256/webvapt) |
+| wpscan | [Link](https://github.com/wpscanteam/wpscan) |
 | xnLinkFinder | [Link](https://github.com/xnl-h4ck3r/xnLinkFinder) |
 | xssFuzz | [Link](https://github.com/Asperis-Security/xssFuzz) |
 | xss_vibes | [Link](https://github.com/faiyazahmad07/xss_vibes) |
