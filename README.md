@@ -49,6 +49,7 @@
 | XSStrike | [Link](https://github.com/s0md3v/XSStrike) | Web Security |
 | amass | [Link](https://github.com/owasp-amass/amass) | Reconnaissance |
 | arachni | [Link](https://github.com/Arachni/arachni) | Web Security |
+| assetfinder | [Link](https://www.kali.org/tools/assetfinder) | Reconnaissance |
 | bbht | [Link](https://github.com/nahamsec/bbht.git) | Exploitation |
 | bearer | [Link](https://github.com/Bearer/bearer) | Web Security |
 | blckhrtz | [Link](https://github.com/cyb3rzest/blckhrtz) | Web Security |
