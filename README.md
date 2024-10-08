@@ -51,6 +51,7 @@
 | arachni | [Link](https://github.com/Arachni/arachni) | Web Security |
 | assetfinder | [Link](https://www.kali.org/tools/assetfinder) | Reconnaissance |
 | bbht | [Link](https://github.com/nahamsec/bbht.git) | Exploitation |
+| bbot | [Link](https://github.com/blacklanternsecurity/bbot) | Penetration Testing |
 | bearer | [Link](https://github.com/Bearer/bearer) | Web Security |
 | blckhrtz | [Link](https://github.com/cyb3rzest/blckhrtz) | Web Security |
 | creepy | [Link](http://www.geocreepy.com/) | Reconnaissance |
