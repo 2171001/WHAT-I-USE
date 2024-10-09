@@ -27,6 +27,7 @@
 | NucleiScanner | [Link](https://github.com/0xKayala/NucleiScanner) | Web Security|
 | Oralyzer | [Link](https://github.com/r0075h3ll/Oralyzer.git) | Web Security |
 | ParamSpider | [Link](https://github.com/PushkraJ99/ParamSpider) | Web Security |
+| PowerSploit | [Link](https://github.com/PowerShellMafia/PowerSploit) | Post-Exploitation |
 | R3con1z3r | [Link](https://github.com/abdulgaphy/r3con1z3r) | Reconnaissance |
 | RED_HAWK | [Link](https://github.com/Tuhinshubhra/RED_HAWK) | Reconnaissance |
 | RTSPbrute | [Link](https://github.com/Ullaakut/cameradar) | Exploitation |
