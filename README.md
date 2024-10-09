@@ -92,6 +92,7 @@
 | nipper | [Link](https://www.kali.org/tools/nipper-ng) | Security Assessment |
 | openredirex | [Link](https://github.com/devanshbatham/OpenRedireX) | Web Security |
 | pipal | [Link](https://www.kali.org/tools/pipal/) | Password Security |
+| ptf | [Link](https://github.com/trustedsec/ptf.git) | Framework & Automation |
 | rapidscan | [Link](https://github.com/skavngr/rapidscan) | Web Security |
 | razzer | [Link](https://github.com/compsec-snu/razzer) | General Security |
 | shells | [Link](https://github.com/4ndr34z/shells) | Web Security |
