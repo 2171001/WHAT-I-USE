@@ -7,6 +7,7 @@
 | Anubis | [Link](https://github.com/jonluca/Anubis) | Reconnaissance |
 | Asnlookup | [Link](https://github.com/yassineaboukir/Asnlookup) | Networking |
 | AutoRecon-XSS | [Link](https://github.com/un9nplayer/AutoRecon-XSS.git) | Web Security |
+| Bellingcat's Online Investigation Toolkit | [Link](https://docs.google.com/spreadsheets/u/0/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/htmlview?pli=1#) | OSINT (Open Source Investigation Toolkit)
 | CORStest | [Link](https://github.com/RUB-NDS/CORStest) | Web Security |
 | CRLF-Injection-Scanner | [Link](https://github.com/MichaelStott/CRLF-Injection-Scanner) | Web Security |
 | CRLFsuite | [Link](https://github.com/Raghavd3v/CRLFsuite) | Web Security |
