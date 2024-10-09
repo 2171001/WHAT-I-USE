@@ -49,6 +49,7 @@
 | XSS-LOADER | [Link](https://github.com/capture0x/XSS-LOADER) | Web Security |
 | XSSGen | [Link](https://github.com/Mr-dark55/XSSGen) | Web Security |
 | XSSInspector-SecurityToolkit-AI-ML | [Link](https://github.com/haroonawanofficial/XSSInspector-SecurityToolkit-AI-ML) | Web Security |
+| XSSSonar | [Link](https://github.com/luigigubello/XSSSonar) | Web Security |
 | XSStrike | [Link](https://github.com/s0md3v/XSStrike) | Web Security |
 | amass | [Link](https://github.com/owasp-amass/amass) | Reconnaissance |
 | arachni | [Link](https://github.com/Arachni/arachni) | Web Security |
