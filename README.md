@@ -2,6 +2,7 @@
 | Tool Name | Resource Link | Category |
 |-----------|---------------|----------|
 | 4-ZERO-3 | [Link](https://github.com/Dheerajmadhukar/4-ZERO-3) | Scanning |
+| 403bypass | [Link](https://github.com/offsecdawn/403bypass) | Scanning |
 | AIDE | Install Manually(sudo apt install aide) | Intrusion Detection |
 | Anubis | [Link](https://github.com/jonluca/Anubis) | Reconnaissance |
 | Asnlookup | [Link](https://github.com/yassineaboukir/Asnlookup) | Networking |
