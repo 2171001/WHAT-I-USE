@@ -53,7 +53,7 @@
 | assetfinder | [Link](https://www.kali.org/tools/assetfinder) | Reconnaissance |
 | autorecon | [Link](https://www.kali.org/tools/autorecon) | Reconnaissance |
 | bbht | [Link](https://github.com/nahamsec/bbht.git) | Exploitation |
-| bbot | [Link](https://github.com/blacklanternsecurity/bbot) | Penetration Testing |
+| bbot | [Link](https://github.com/blacklanternsecurity/bbot) | OSINT & Reconnaissance |
 | bearer | [Link](https://github.com/Bearer/bearer) | Web Security |
 | binsider | [Link](https://github.com/orhun/binsider) | Binary Analysis |
 | blckhrtz | [Link](https://github.com/cyb3rzest/blckhrtz) | Web Security |
