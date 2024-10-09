@@ -52,6 +52,7 @@
 | arachni | [Link](https://github.com/Arachni/arachni) | Web Security |
 | assetfinder | [Link](https://www.kali.org/tools/assetfinder) | Reconnaissance |
 | autorecon | [Link](https://www.kali.org/tools/autorecon) | Reconnaissance |
+| awesome-osint | [Link](https://github.com/jivoi/awesome-osint) | OSINT (Open Source Intelligence) |
 | bbht | [Link](https://github.com/nahamsec/bbht.git) | Exploitation |
 | bbot | [Link](https://github.com/blacklanternsecurity/bbot) | OSINT & Reconnaissance |
 | bearer | [Link](https://github.com/Bearer/bearer) | Web Security |
@@ -60,6 +61,7 @@
 | creepy | [Link](http://www.geocreepy.com/) | Reconnaissance |
 | crtndstry | [Link](https://github.com/nahamsec/crtndstry) | Networking |
 | crtsh.py | [Link](https://github.com/YashGoti/crtsh.py.git) | Networking |
+| darkdump | [Link](https://github.com/josh0xA/darkdump) | OSINT (Dark Web Intelligence) |
 | dirsearch | [Link](https://github.com/maurosoria/dirsearch) | Web Security |
 | dnscan | [Link](https://github.com/rbsec/dnscan) | Networking |
 | findomain | [Link](https://github.com/Edu4rdSHL/findomain) | Reconnaissance |
