@@ -58,6 +58,7 @@
 | assetfinder | [Link](https://www.kali.org/tools/assetfinder) | Reconnaissance |
 | autorecon | [Link](https://www.kali.org/tools/autorecon) | Reconnaissance |
 | awesome-osint | [Link](https://github.com/jivoi/awesome-osint) | OSINT (Open Source Intelligence) |
+| awesome-shizuku | [Link](https://github.com/timschneeb/awesome-shizuku) | Android Development |
 | bbht | [Link](https://github.com/nahamsec/bbht.git) | Exploitation |
 | bbot | [Link](https://github.com/blacklanternsecurity/bbot) | OSINT & Reconnaissance |
 | bearer | [Link](https://github.com/Bearer/bearer) | Web Security |
