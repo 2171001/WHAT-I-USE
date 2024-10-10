@@ -115,6 +115,7 @@
 | testssl.sh | [Link](https://github.com/drwetter/testssl.sh.git) | Security |
 | unicornscan | [Link](https://www.kali.org/tools/unicornscan/) | Networking |
 | uniscan | [Link](https://www.kali.org/tools/uniscan) | Web Security |
+| universal-android-debloater | [Link](https://github.com/0x192/universal-android-debloater) | Android System Optimization |
 | valhalla | [Link](https://github.com/gotr00t0day/valhalla.git) | Web Security |
 | vasuki | [Link](https://github.com/cyb3rzest/Vasuki) | Web Security |
 | virtual-host-discovery | [Link](https://github.com/jobertabma/virtual-host-discovery) | Web Security |
