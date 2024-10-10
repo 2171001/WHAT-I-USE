@@ -11,6 +11,7 @@
 | CORStest | [Link](https://github.com/RUB-NDS/CORStest) | Web Security |
 | CRLF-Injection-Scanner | [Link](https://github.com/MichaelStott/CRLF-Injection-Scanner) | Web Security |
 | CRLFsuite | [Link](https://github.com/Raghavd3v/CRLFsuite) | Web Security |
+| CloakQuest3r | [Link](https://github.com/spyboy-productions/CloakQuest3r) | Network Security / OSINT |
 | CloudFlair | [Link](https://github.com/christophetd/CloudFlair) | Web Security |
 | Corscan | [Link](https://github.com/Angix-Black/Corscan) | Web Security |
 | Corsy | [Link](https://github.com/s0md3v/Corsy) | Web Security |
@@ -44,6 +45,7 @@
 | Site-Scanner | [Link](https://github.com/TalMaIka/Site-Scanner) | Web Security |
 | Sn1per | [Link](https://github.com/1N3/Sn1per/releases) | General Security |
 | SubProber | [Link](https://github.com/sanjai-AK47/Subprober) | Reconnaissance |
+| Subdominator | [Link](https://github.com/RevoltSecurities/Subdominator) | Bug Bounty / OSINT |
 | Sublist3r | [Link](https://github.com/aboul3la/Sublist3r) | Reconnaissance |
 | Telnet | [Link](https://github.com/9swampy/Telnet) | Networking |
 | XCTR-Hacking-Tools | [Link](https://github.com/capture0x/XCTR-Hacking-Tools) | General Security |
