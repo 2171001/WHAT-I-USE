@@ -36,9 +36,11 @@
 | R3con1z3r | [Link](https://github.com/abdulgaphy/r3con1z3r) | Reconnaissance |
 | RED_HAWK | [Link](https://github.com/Tuhinshubhra/RED_HAWK) | Reconnaissance |
 | RTSPbrute | [Link](https://github.com/Ullaakut/cameradar) | Exploitation |
+| Reverse-Shell-Bash-Alias | [Link](https://github.com/0dayCTF/Reverse-Shell-Bash-Alias) | Penetration Testing |
 | SSRFire | [Link](https://github.com/michaelben6/SSRFIRE) | Web Security |
 | SSRFmap | [Link](https://github.com/swisskyrepo/SSRFmap) | Web Security |
 | SSTImap | [Link](https://github.com/vladko312/sstimap) | Web Security |
+| ScareCrow | [Link](https://github.com/0dayCTF/ScareCrow) | Evasion / Exploitation |
 | SecLists | [Link](https://github.com/danielmiessler/SecLists) | General Security |
 | SecretFinder | [Link](https://github.com/GerbenJavado/LinkFinder) | Reconnaissance |
 | Sharpcat | [Link](https://github.com/theart42/Sharpcat) | Web Security |
@@ -106,6 +108,7 @@
 | ptf | [Link](https://github.com/trustedsec/ptf.git) | Framework & Automation |
 | rapidscan | [Link](https://github.com/skavngr/rapidscan) | Web Security |
 | razzer | [Link](https://github.com/compsec-snu/razzer) | General Security |
+| recollapse | [Link](https://github.com/0xacb/recollapse) | Fuzzing / Web Security |
 | shells | [Link](https://github.com/4ndr34z/shells) | Web Security |
 | shortscan | [Link](https://github.com/bitquark/shortscan) | Web Security |
 | spyhunt | [Link](https://github.com/gotr00t0day/spyhunt.git) | Reconnaissance |
