@@ -4,6 +4,7 @@
 | 4-ZERO-3 | [Link](https://github.com/Dheerajmadhukar/4-ZERO-3) | Scanning |
 | 403bypass | [Link](https://github.com/offsecdawn/403bypass) | Scanning |
 | AIDE | Install Manually(sudo apt install aide) | Intrusion Detection |
+| Android-PIN-Bruteforce | [Link](https://github.com/urbanadventurer/Android-PIN-Bruteforce) | Mobile Security / Password Cracking |
 | Anubis | [Link](https://github.com/jonluca/Anubis) | Reconnaissance |
 | Asnlookup | [Link](https://github.com/yassineaboukir/Asnlookup) | Networking |
 | AutoRecon-XSS | [Link](https://github.com/un9nplayer/AutoRecon-XSS.git) | Web Security |
@@ -11,6 +12,8 @@
 | CORStest | [Link](https://github.com/RUB-NDS/CORStest) | Web Security |
 | CRLF-Injection-Scanner | [Link](https://github.com/MichaelStott/CRLF-Injection-Scanner) | Web Security |
 | CRLFsuite | [Link](https://github.com/Raghavd3v/CRLFsuite) | Web Security |
+| CamPhish | [Link](https://github.com/techchipnet/CamPhish) | Social Engineering
+| CiLocks | [Link](https://github.com/tegal1337/CiLocks) | Mobile Security / Exploitation |
 | CloakQuest3r | [Link](https://github.com/spyboy-productions/CloakQuest3r) | Network Security / OSINT |
 | CloudFlair | [Link](https://github.com/christophetd/CloudFlair) | Web Security |
 | Corscan | [Link](https://github.com/Angix-Black/Corscan) | Web Security |
@@ -24,7 +27,7 @@
 | JSParser | [Link](https://github.com/nahamsec/JSParser) | Web Security |
 | KitHack | [Link](https://github.com/AdrMXR/KitHack) | General Security |
 | LFISuite | [Link](https://github.com/D35m0nd142/LFISuite) | Web Security |
-| LinkFinder | [Link](https://github.com/beautify-web/js-beautify) | Web Security |
+| js-beautify | [Link](https://github.com/beautify-web/js-beautify) | Web Security |
 | MXS | [Link](https://github.com/sarperavci/MXS) | Web Security |
 | NoSQLMap | [Link](https://github.com/codingo/NoSQLMap) | Web Security |
 | NucleiFuzzer | [Link](https://github.com/0xKayala/NucleiFuzzer) | Web Security |
@@ -42,7 +45,8 @@
 | SSTImap | [Link](https://github.com/vladko312/sstimap) | Web Security |
 | ScareCrow | [Link](https://github.com/0dayCTF/ScareCrow) | Evasion / Exploitation |
 | SecLists | [Link](https://github.com/danielmiessler/SecLists) | General Security |
-| SecretFinder | [Link](https://github.com/GerbenJavado/LinkFinder) | Reconnaissance |
+| LinkFinder | [Link](https://github.com/GerbenJavado/LinkFinder) | Reconnaissance |
+| LockKnife | [Link](https://github.com/ImKKingshuk/LockKnife) | Password Recovery / Mobile Security |
 | Sharpcat | [Link](https://github.com/theart42/Sharpcat) | Web Security |
 | Site-Scanner | [Link](https://github.com/TalMaIka/Site-Scanner) | Web Security |
 | Sn1per | [Link](https://github.com/1N3/Sn1per/releases) | General Security |
@@ -67,6 +71,7 @@
 | bbot | [Link](https://github.com/blacklanternsecurity/bbot) | OSINT & Reconnaissance |
 | bearer | [Link](https://github.com/Bearer/bearer) | Web Security |
 | binsider | [Link](https://github.com/orhun/binsider) | Binary Analysis |
+| blackeye | [Link](https://github.com/EricksonAtHome/blackeye) | Social Engineering |
 | blckhrtz | [Link](https://github.com/cyb3rzest/blckhrtz) | Web Security |
 | creepy | [Link](http://www.geocreepy.com/) | Reconnaissance |
 | crtndstry | [Link](https://github.com/nahamsec/crtndstry) | Networking |
@@ -84,6 +89,7 @@
 | ghauri | [Link](https://github.com/r0oth3x49/ghauri) | Web Security |
 | gitGraber | [Link](https://github.com/settings/tokens) | Reconnaissance |
 | gitools | [Link](https://github.com/Angix-Black/gitools) | General Security |
+| gophish | [Link](https://github.com/gophish/gophish) | Social Engineering |
 | hakcheckurl | [Link](https://github.com/hakluke/hakrawler) | Web Security |
 | http-request-smuggling | [Link](https://github.com/anshumanpattnaik/http-request-smuggling.git) | Web Security |
 | httpx | [Link](https://github.com/projectdiscovery/httpx) | Web Security |
@@ -104,6 +110,7 @@
 | net-spider | [Link](https://github.com/ahmed-alnassif/net-spider.git) | Networking |
 | nipper | [Link](https://www.kali.org/tools/nipper-ng) | Security Assessment |
 | openredirex | [Link](https://github.com/devanshbatham/OpenRedireX) | Web Security |
+| phoneinfoga | [Link](https://github.com/sundowndev/phoneinfoga) | Information Gathering from PhoneNumbers |
 | pipal | [Link](https://www.kali.org/tools/pipal/) | Password Security |
 | ptf | [Link](https://github.com/trustedsec/ptf.git) | Framework & Automation |
 | rapidscan | [Link](https://github.com/skavngr/rapidscan) | Web Security |
