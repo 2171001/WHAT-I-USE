@@ -50,6 +50,7 @@
 | Sharpcat | [Link](https://github.com/theart42/Sharpcat) | Web Security |
 | Site-Scanner | [Link](https://github.com/TalMaIka/Site-Scanner) | Web Security |
 | Sn1per | [Link](https://github.com/1N3/Sn1per/releases) | General Security |
+| SpideyX | [Link](https://github.com/RevoltSecurities/SpideyX) | Web Security / Penetration Testing |
 | SubProber | [Link](https://github.com/sanjai-AK47/Subprober) | Reconnaissance |
 | Subdominator | [Link](https://github.com/RevoltSecurities/Subdominator) | Bug Bounty / OSINT |
 | Sublist3r | [Link](https://github.com/aboul3la/Sublist3r) | Reconnaissance |
