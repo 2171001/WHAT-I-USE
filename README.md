@@ -18,6 +18,7 @@
 | CloudFlair | [Link](https://github.com/christophetd/CloudFlair) | Web Security |
 | Corscan | [Link](https://github.com/Angix-Black/Corscan) | Web Security |
 | Corsy | [Link](https://github.com/s0md3v/Corsy) | Web Security |
+| Darkweb-Onion-Links | [Link](https://github.com/praveenjalasutram/Darkweb-Onion-Links) | Dark Web Monitoring / OSINT |
 | Depix | [Link](https://github.com/JonasSchatz/DepixHMM) | Web Security |
 | Espionage | [Link](https://github.com/josh0xA/Espionage) | Network Security / MiTM Attacks |
 | Gopherus | [Link](https://github.com/tarunkant/Gopherus) | Reconnaissance |
@@ -32,6 +33,7 @@
 | NoSQLMap | [Link](https://github.com/codingo/NoSQLMap) | Web Security |
 | NucleiFuzzer | [Link](https://github.com/0xKayala/NucleiFuzzer) | Web Security |
 | NucleiScanner | [Link](https://github.com/0xKayala/NucleiScanner) | Web Security|
+| OnionSearch | [Link](https://github.com/megadose/OnionSearch) | Dark Web Monitoring / OSINT |
 | Oralyzer | [Link](https://github.com/r0075h3ll/Oralyzer.git) | Web Security |
 | Pantheon | [Link](https://github.com/josh0xA/Pantheon) | Surveillance / OSINT |
 | ParamSpider | [Link](https://github.com/PushkraJ99/ParamSpider) | Web Security |
