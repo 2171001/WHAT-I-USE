@@ -57,6 +57,7 @@
 | Subdominator | [Link](https://github.com/RevoltSecurities/Subdominator) | Bug Bounty / OSINT |
 | Sublist3r | [Link](https://github.com/aboul3la/Sublist3r) | Reconnaissance |
 | Telnet | [Link](https://github.com/9swampy/Telnet) | Networking |
+| TorBot | [Link](https://github.com/DedSecInside/TorBot) | Dark Web Monitoring / OSINT |
 | XCTR-Hacking-Tools | [Link](https://github.com/capture0x/XCTR-Hacking-Tools) | General Security |
 | XSS-Automation-Tool | [Link](https://github.com/EmperialX/XSS-Automation-Tool.git) | Web Security |
 | XSS-LOADER | [Link](https://github.com/capture0x/XSS-LOADER) | Web Security |
