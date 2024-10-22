@@ -25,6 +25,7 @@
 | GraphQLmap | [Link](https://github.com/swisskyrepo/GraphQLmap) | Web Security |
 | Gsec | [Link](https://github.com/gotr00t0day/Gsec.git) | Web Security |
 | Hacking-Tools | [Link](https://github.com/aw-junaid) | General Security |
+| Invoke-Obfuscation | [Link](https://github.com/danielbohannon/Invoke-Obfuscation) | PowerShell Security / Obfuscation |
 | JSParser | [Link](https://github.com/nahamsec/JSParser) | Web Security |
 | KitHack | [Link](https://github.com/AdrMXR/KitHack) | General Security |
 | LFISuite | [Link](https://github.com/D35m0nd142/LFISuite) | Web Security |
