@@ -43,6 +43,7 @@
 | RED_HAWK | [Link](https://github.com/Tuhinshubhra/RED_HAWK) | Reconnaissance |
 | RTSPbrute | [Link](https://github.com/Ullaakut/cameradar) | Exploitation |
 | Reverse-Shell-Bash-Alias | [Link](https://github.com/0dayCTF/Reverse-Shell-Bash-Alias) | Penetration Testing |
+| SILENTTRINITY | [Link](https://github.com/byt3bl33d3r/SILENTTRINITY) | Post-Exploitation / C2 Framework |
 | SSRFire | [Link](https://github.com/michaelben6/SSRFIRE) | Web Security |
 | SSRFmap | [Link](https://github.com/swisskyrepo/SSRFmap) | Web Security |
 | SSTImap | [Link](https://github.com/vladko312/sstimap) | Web Security |
@@ -111,6 +112,7 @@
 | linkedin2username | [Link](https://github.com/initstring/linkedin2username) | Reconnaissance |
 | masscan | [Link](https://github.com/robertdavidgraham/masscan) | Networking |
 | massdns | [Link](https://github.com/blechschmidt/massdns) | Networking |
+| merlin | [Link](https://github.com/Ne0nd0g/merlin) | Post-Exploitation / C2 Framework |
 | nerve | [Link](https://github.com/PaytmLabs/nerve) | Reconnaissance |
 | net-spider | [Link](https://github.com/ahmed-alnassif/net-spider.git) | Networking |
 | nipper | [Link](https://www.kali.org/tools/nipper-ng) | Security Assessment |
