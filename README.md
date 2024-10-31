@@ -116,6 +116,7 @@
 | nerve | [Link](https://github.com/PaytmLabs/nerve) | Reconnaissance |
 | net-spider | [Link](https://github.com/ahmed-alnassif/net-spider.git) | Networking |
 | nipper | [Link](https://www.kali.org/tools/nipper-ng) | Security Assessment |
+| nowafpls | [Link](https://github.com/assetnote/nowafpls) | Web Security / WAF Evasion |
 | openredirex | [Link](https://github.com/devanshbatham/OpenRedireX) | Web Security |
 | phoneinfoga | [Link](https://github.com/sundowndev/phoneinfoga) | Information Gathering from PhoneNumbers |
 | pipal | [Link](https://www.kali.org/tools/pipal/) | Password Security |
