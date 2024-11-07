@@ -71,6 +71,7 @@
 | arachni | [Link](https://github.com/Arachni/arachni) | Web Security |
 | assetfinder | [Link](https://www.kali.org/tools/assetfinder) | Reconnaissance |
 | autorecon | [Link](https://www.kali.org/tools/autorecon) | Reconnaissance |
+| awesome-malware-analysis | [Link](https://github.com/rshipp/awesome-malware-analysis) | Malware Analysis / Resource List |
 | awesome-osint | [Link](https://github.com/jivoi/awesome-osint) | OSINT (Open Source Intelligence) |
 | awesome-shizuku | [Link](https://github.com/timschneeb/awesome-shizuku) | Android Development |
 | bbht | [Link](https://github.com/nahamsec/bbht.git) | Exploitation |
