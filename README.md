@@ -110,6 +110,7 @@
 | legion2 | [Link](https://github.com/carlospolop/legion.git) | General Security |
 | liffy | [Link](https://github.com/mzfr/liffy) | General Security |
 | linkedin2username | [Link](https://github.com/initstring/linkedin2username) | Reconnaissance |
+| loxs | [Link](https://github.com/coffinxp/loxs/) | Web Security / Vulnerability Scanning |
 | masscan | [Link](https://github.com/robertdavidgraham/masscan) | Networking |
 | massdns | [Link](https://github.com/blechschmidt/massdns) | Networking |
 | merlin | [Link](https://github.com/Ne0nd0g/merlin) | Post-Exploitation / C2 Framework |
