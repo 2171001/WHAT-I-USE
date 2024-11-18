@@ -126,6 +126,7 @@
 | rapidscan | [Link](https://github.com/skavngr/rapidscan) | Web Security |
 | razzer | [Link](https://github.com/compsec-snu/razzer) | General Security |
 | recollapse | [Link](https://github.com/0xacb/recollapse) | Fuzzing / Web Security |
+| reconFTW | [Link](https://github.com/vivekperkawar/reconftw) | 
 | shells | [Link](https://github.com/4ndr34z/shells) | Web Security |
 | shortscan | [Link](https://github.com/bitquark/shortscan) | Web Security |
 | spyhunt | [Link](https://github.com/gotr00t0day/spyhunt.git) | Reconnaissance |
