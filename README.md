@@ -115,6 +115,7 @@
 | loxs | [Link](https://github.com/coffinxp/loxs/) | Web Security / Vulnerability Scanning |
 | masscan | [Link](https://github.com/robertdavidgraham/masscan) | Networking |
 | massdns | [Link](https://github.com/blechschmidt/massdns) | Networking |
+| mdk4 | [Link](https://github.com/aircrack-ng/mdk4) | Wireless Security |
 | merlin | [Link](https://github.com/Ne0nd0g/merlin) | Post-Exploitation / C2 Framework |
 | nerve | [Link](https://github.com/PaytmLabs/nerve) | Reconnaissance |
 | net-spider | [Link](https://github.com/ahmed-alnassif/net-spider.git) | Networking |
