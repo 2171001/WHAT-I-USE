@@ -33,9 +33,10 @@
 | MXS | [Link](https://github.com/sarperavci/MXS) | Web Security |
 | NoSQLMap | [Link](https://github.com/codingo/NoSQLMap) | Web Security |
 | NucleiFuzzer | [Link](https://github.com/0xKayala/NucleiFuzzer) | Web Security |
-| NucleiScanner | [Link](https://github.com/0xKayala/NucleiScanner) | Web Security|
+| NucleiScanner | [Link](https://github.com/0xKayala/NucleiScanner) | Web Security |
 | OnionSearch | [Link](https://github.com/megadose/OnionSearch) | Dark Web Monitoring / OSINT |
 | Oralyzer | [Link](https://github.com/r0075h3ll/Oralyzer.git) | Web Security |
+| Owfuzz | [Link](https://github.com/alipay/Owfuzz) | Wireless Security / Fuzzing |
 | Pantheon | [Link](https://github.com/josh0xA/Pantheon) | Surveillance / OSINT |
 | ParamSpider | [Link](https://github.com/PushkraJ99/ParamSpider) | Web Security |
 | PowerSploit | [Link](https://github.com/PowerShellMafia/PowerSploit) | Post-Exploitation |
