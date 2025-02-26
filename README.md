@@ -21,10 +21,12 @@
 | Darkweb-Onion-Links | [Link](https://github.com/praveenjalasutram/Darkweb-Onion-Links) | Dark Web Monitoring / OSINT |
 | Depix | [Link](https://github.com/JonasSchatz/DepixHMM) | Web Security |
 | Espionage | [Link](https://github.com/josh0xA/Espionage) | Network Security / MiTM Attacks |
+| FinalRecon | [Link](https://github.com/thewhiteh4t/FinalRecon.git) | Web Recon/Info Gathering |
 | Gopherus | [Link](https://github.com/tarunkant/Gopherus) | Reconnaissance |
 | GraphQLmap | [Link](https://github.com/swisskyrepo/GraphQLmap) | Web Security |
 | Gsec | [Link](https://github.com/gotr00t0day/Gsec.git) | Web Security |
 | Hacking-Tools | [Link](https://github.com/aw-junaid) | General Security |
+| HawkScan | [Link](https://github.com/c0dejump/HawkScan.git) | Web Recon/OSINT |
 | Invoke-Obfuscation | [Link](https://github.com/danielbohannon/Invoke-Obfuscation) | PowerShell Security / Obfuscation |
 | JSParser | [Link](https://github.com/nahamsec/JSParser) | Web Security |
 | KitHack | [Link](https://github.com/AdrMXR/KitHack) | General Security |
@@ -81,6 +83,7 @@
 | binsider | [Link](https://github.com/orhun/binsider) | Binary Analysis |
 | blackeye | [Link](https://github.com/EricksonAtHome/blackeye) | Social Engineering |
 | blckhrtz | [Link](https://github.com/cyb3rzest/blckhrtz) | Web Security |
+| buster | [Link](https://github.com/sham00n/buster) | Email Security/OSINT |
 | creepy | [Link](http://www.geocreepy.com/) | Reconnaissance |
 | crtndstry | [Link](https://github.com/nahamsec/crtndstry) | Networking |
 | crtsh.py | [Link](https://github.com/YashGoti/crtsh.py.git) | Networking |
@@ -135,6 +138,7 @@
 | sqlifinder | [Link](https://github.com/americo/sqlifinder) | Web Security |
 | sqlmap | [Link](https://github.com/sqlmapproject/sqlmap) | Web Security |
 | subbrute | [Link](https://github.com/TheRook/subbrute) | Reconnaissance |
+| sublert | [Link](https://github.com/yassineaboukir/sublert) | Subdomain Enum/Recon |
 | subzy | [Link](https://github.com/PentestPad/subzy) | Reconnaissance |
 | swit-scanner | [Link](https://github.com/RedSecurity/swit-scanner.git) | Web Security |
 | testssl.sh | [Link](https://github.com/drwetter/testssl.sh.git) | Security |
