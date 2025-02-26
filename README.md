@@ -91,6 +91,7 @@
 | darkdump | [Link](https://github.com/josh0xA/darkdump) | OSINT (Dark Web Intelligence) |
 | dirsearch | [Link](https://github.com/maurosoria/dirsearch) | Web Security |
 | dnscan | [Link](https://github.com/rbsec/dnscan) | Networking |
+| fierce | [Link](https://github.com/mschwager/fierce.git) | DNS Recon/OSINT |
 | findomain | [Link](https://github.com/Edu4rdSHL/findomain) | Reconnaissance |
 | firmware-mod-kit | [Link](https://github.com/rampageX/firmware-mod-kit) | General Security |
 | freq | [Link](https://github.com/takshal/freq) | Reconnaissance |
