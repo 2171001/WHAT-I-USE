@@ -62,6 +62,7 @@
 | Subdominator | [Link](https://github.com/RevoltSecurities/Subdominator) | Bug Bounty / OSINT |
 | Sublist3r | [Link](https://github.com/aboul3la/Sublist3r) | Reconnaissance |
 | Telnet | [Link](https://github.com/9swampy/Telnet) | Networking |
+| Th3Inspector | [Link](https://github.com/Moham3dRiahi/Th3inspector) | OSINT/Info Gathering |
 | TorBot | [Link](https://github.com/DedSecInside/TorBot) | Dark Web Monitoring / OSINT |
 | XCTR-Hacking-Tools | [Link](https://github.com/capture0x/XCTR-Hacking-Tools) | General Security |
 | XSS-Automation-Tool | [Link](https://github.com/EmperialX/XSS-Automation-Tool.git) | Web Security |
@@ -98,6 +99,7 @@
 | gasmask | [Link](https://github.com/maldevel) | Security |
 | ghas-cli | [Link](https://github.com/Malwarebytes/ghas-cli) | Reconnaissance |
 | ghauri | [Link](https://github.com/r0oth3x49/ghauri) | Web Security |
+| gitem | [Link](https://github.com/mschwager/gitem) | OSINT/Reconnaissance |
 | gitGraber | [Link](https://github.com/settings/tokens) | Reconnaissance |
 | gitools | [Link](https://github.com/Angix-Black/gitools) | General Security |
 | gophish | [Link](https://github.com/gophish/gophish) | Social Engineering |
@@ -132,6 +134,7 @@
 | razzer | [Link](https://github.com/compsec-snu/razzer) | General Security |
 | recollapse | [Link](https://github.com/0xacb/recollapse) | Fuzzing / Web Security |
 | reconFTW | [Link](https://github.com/vivekperkawar/reconftw) | Reconnaissance / Vulnerability Scanning |
+| recox | [Link](https://github.com/samhaxr/recox) | Web Security/Reconnaissance |
 | shells | [Link](https://github.com/4ndr34z/shells) | Web Security |
 | shortscan | [Link](https://github.com/bitquark/shortscan) | Web Security |
 | spyhunt | [Link](https://github.com/gotr00t0day/spyhunt.git) | Reconnaissance |
@@ -162,4 +165,5 @@
 | xss_vibes | [Link](https://github.com/faiyazahmad07/xss_vibes) | Web Security |
 | xsser | [Link](https://github.com/epsylon/xsser) | Web Security |
 | xsshunter | [Link](https://github.com/mandatoryprogrammer/xsshunter) | Web Security |
+| xurlfind3r | [Link](https://github.com/hueristiq/xurlfind3r) | OSINT/Reconnaissance |
 | zphisher | [Link](https://github.com/htr-tech/zphisher.git) | Social Engineering |
