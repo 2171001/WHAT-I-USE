@@ -21,12 +21,13 @@
 | Darkweb-Onion-Links | [Link](https://github.com/praveenjalasutram/Darkweb-Onion-Links) | Dark Web Monitoring / OSINT |
 | Depix | [Link](https://github.com/JonasSchatz/DepixHMM) | Web Security |
 | Espionage | [Link](https://github.com/josh0xA/Espionage) | Network Security / MiTM Attacks |
-| FinalRecon | [Link](https://github.com/thewhiteh4t/FinalRecon.git) | Web Recon/Info Gathering |
+| FinalRecon | [Link](https://github.com/thewhiteh4t/FinalRecon.git) | Web Recon / Info Gathering |
 | Gopherus | [Link](https://github.com/tarunkant/Gopherus) | Reconnaissance |
 | GraphQLmap | [Link](https://github.com/swisskyrepo/GraphQLmap) | Web Security |
 | Gsec | [Link](https://github.com/gotr00t0day/Gsec.git) | Web Security |
 | Hacking-Tools | [Link](https://github.com/aw-junaid) | General Security |
-| HawkScan | [Link](https://github.com/c0dejump/HawkScan.git) | Web Recon/OSINT |
+| HawkScan | [Link](https://github.com/c0dejump/HawkScan.git) | Web Recon / OSINT |
+| HExHTTP | [Link](https://github.com/c0dejump/HExHTTP) | Web Security / HTTP Header Analysis |
 | Invoke-Obfuscation | [Link](https://github.com/danielbohannon/Invoke-Obfuscation) | PowerShell Security / Obfuscation |
 | JSParser | [Link](https://github.com/nahamsec/JSParser) | Web Security |
 | KitHack | [Link](https://github.com/AdrMXR/KitHack) | General Security |
@@ -62,7 +63,7 @@
 | Subdominator | [Link](https://github.com/RevoltSecurities/Subdominator) | Bug Bounty / OSINT |
 | Sublist3r | [Link](https://github.com/aboul3la/Sublist3r) | Reconnaissance |
 | Telnet | [Link](https://github.com/9swampy/Telnet) | Networking |
-| Th3Inspector | [Link](https://github.com/Moham3dRiahi/Th3inspector) | OSINT/Info Gathering |
+| Th3Inspector | [Link](https://github.com/Moham3dRiahi/Th3inspector) | OSINT / Info Gathering |
 | TorBot | [Link](https://github.com/DedSecInside/TorBot) | Dark Web Monitoring / OSINT |
 | XCTR-Hacking-Tools | [Link](https://github.com/capture0x/XCTR-Hacking-Tools) | General Security |
 | XSS-Automation-Tool | [Link](https://github.com/EmperialX/XSS-Automation-Tool.git) | Web Security |
@@ -84,7 +85,7 @@
 | binsider | [Link](https://github.com/orhun/binsider) | Binary Analysis |
 | blackeye | [Link](https://github.com/EricksonAtHome/blackeye) | Social Engineering |
 | blckhrtz | [Link](https://github.com/cyb3rzest/blckhrtz) | Web Security |
-| buster | [Link](https://github.com/sham00n/buster) | Email Security/OSINT |
+| buster | [Link](https://github.com/sham00n/buster) | Email Security / OSINT |
 | creepy | [Link](http://www.geocreepy.com/) | Reconnaissance |
 | crtndstry | [Link](https://github.com/nahamsec/crtndstry) | Networking |
 | crtsh.py | [Link](https://github.com/YashGoti/crtsh.py.git) | Networking |
@@ -100,7 +101,7 @@
 | gasmask | [Link](https://github.com/maldevel) | Security |
 | ghas-cli | [Link](https://github.com/Malwarebytes/ghas-cli) | Reconnaissance |
 | ghauri | [Link](https://github.com/r0oth3x49/ghauri) | Web Security |
-| gitem | [Link](https://github.com/mschwager/gitem) | OSINT/Reconnaissance |
+| gitem | [Link](https://github.com/mschwager/gitem) | OSINT / Reconnaissance |
 | gitGraber | [Link](https://github.com/settings/tokens) | Reconnaissance |
 | gitools | [Link](https://github.com/Angix-Black/gitools) | General Security |
 | gophish | [Link](https://github.com/gophish/gophish) | Social Engineering |
@@ -166,5 +167,5 @@
 | xss_vibes | [Link](https://github.com/faiyazahmad07/xss_vibes) | Web Security |
 | xsser | [Link](https://github.com/epsylon/xsser) | Web Security |
 | xsshunter | [Link](https://github.com/mandatoryprogrammer/xsshunter) | Web Security |
-| xurlfind3r | [Link](https://github.com/hueristiq/xurlfind3r) | OSINT/Reconnaissance |
+| xurlfind3r | [Link](https://github.com/hueristiq/xurlfind3r) | OSINT / Reconnaissance |
 | zphisher | [Link](https://github.com/htr-tech/zphisher.git) | Social Engineering |
