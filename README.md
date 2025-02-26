@@ -4,6 +4,7 @@
 | 4-ZERO-3 | [Link](https://github.com/Dheerajmadhukar/4-ZERO-3) | Scanning |
 | 403bypass | [Link](https://github.com/offsecdawn/403bypass) | Scanning |
 | AIDE | Install Manually(sudo apt install aide) | Intrusion Detection |
+| AllForOne | [Link](https://github.com/AggressiveUser/AllForOne) | Bug Bounty / Reconnaissance |
 | Android-PIN-Bruteforce | [Link](https://github.com/urbanadventurer/Android-PIN-Bruteforce) | Mobile Security / Password Cracking |
 | Anubis | [Link](https://github.com/jonluca/Anubis) | Reconnaissance |
 | Asnlookup | [Link](https://github.com/yassineaboukir/Asnlookup) | Networking |
@@ -128,6 +129,7 @@
 | net-spider | [Link](https://github.com/ahmed-alnassif/net-spider.git) | Networking |
 | nipper | [Link](https://www.kali.org/tools/nipper-ng) | Security Assessment |
 | nowafpls | [Link](https://github.com/assetnote/nowafpls) | Web Security / WAF Evasion |
+| noxer | [Link](https://github.com/AggressiveUser/noxer) | Android Penetration Testing |
 | openredirex | [Link](https://github.com/devanshbatham/OpenRedireX) | Web Security |
 | phoneinfoga | [Link](https://github.com/sundowndev/phoneinfoga) | Information Gathering from PhoneNumbers |
 | pipal | [Link](https://www.kali.org/tools/pipal/) | Password Security |
