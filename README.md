@@ -20,6 +20,7 @@
 | CloudFlair | [Link](https://github.com/christophetd/CloudFlair) | Web Security |
 | Corscan | [Link](https://github.com/Angix-Black/Corscan) | Web Security |
 | Corsy | [Link](https://github.com/s0md3v/Corsy) | Web Security |
+| cariddi | [Link](https://github.com/edoardottt/cariddi) | Web Reconnaissance / Secret Discovery |
 | Darkweb-Onion-Links | [Link](https://github.com/praveenjalasutram/Darkweb-Onion-Links) | Dark Web Monitoring / OSINT |
 | Depix | [Link](https://github.com/JonasSchatz/DepixHMM) | Web Security |
 | Espionage | [Link](https://github.com/josh0xA/Espionage) | Network Security / MiTM Attacks |
