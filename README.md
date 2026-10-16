@@ -24,6 +24,7 @@
 | Depix | [Link](https://github.com/JonasSchatz/DepixHMM) | Web Security |
 | Espionage | [Link](https://github.com/josh0xA/Espionage) | Network Security / MiTM Attacks |
 | FinalRecon | [Link](https://github.com/thewhiteh4t/FinalRecon.git) | Web Recon / Info Gathering |
+| GoogleDorker | [Link](https://github.com/RevoltSecurities/GoogleDorker) | Reconnaissance / OSINT |
 | Gopherus | [Link](https://github.com/tarunkant/Gopherus) | Reconnaissance |
 | GraphQLmap | [Link](https://github.com/swisskyrepo/GraphQLmap) | Web Security |
 | Gsec | [Link](https://github.com/gotr00t0day/Gsec.git) | Web Security |
@@ -32,14 +33,18 @@
 | HExHTTP | [Link](https://github.com/c0dejump/HExHTTP) | Web Security / HTTP Header Analysis |
 | Invoke-Obfuscation | [Link](https://github.com/danielbohannon/Invoke-Obfuscation) | PowerShell Security / Obfuscation |
 | JSParser | [Link](https://github.com/nahamsec/JSParser) | Web Security |
+| js-beautify | [Link](https://github.com/beautify-web/js-beautify) | Web Security |
 | KitHack | [Link](https://github.com/AdrMXR/KitHack) | General Security |
 | LFISuite | [Link](https://github.com/D35m0nd142/LFISuite) | Web Security |
-| js-beautify | [Link](https://github.com/beautify-web/js-beautify) | Web Security |
+| LinkFinder | [Link](https://github.com/GerbenJavado/LinkFinder) | Reconnaissance |
+| LockKnife | [Link](https://github.com/ImKKingshuk/LockKnife) | Password Recovery / Mobile Security |
 | MXS | [Link](https://github.com/sarperavci/MXS) | Web Security |
 | NoSQLMap | [Link](https://github.com/codingo/NoSQLMap) | Web Security |
 | NucleiFuzzer | [Link](https://github.com/0xKayala/NucleiFuzzer) | Web Security |
 | NucleiScanner | [Link](https://github.com/0xKayala/NucleiScanner) | Web Security |
+| nmap-unleashed | [Link](https://github.com/sharkeonix/nmap-unleashed) | Network Scanning / Reconnaissance |
 | OnionSearch | [Link](https://github.com/megadose/OnionSearch) | Dark Web Monitoring / OSINT |
+| OpenAnt | [Link](https://github.com/knostic/OpenAnt) | AI Security / Vulnerability Discovery |
 | Oralyzer | [Link](https://github.com/r0075h3ll/Oralyzer.git) | Web Security |
 | Owfuzz | [Link](https://github.com/alipay/Owfuzz) | Wireless Security / Fuzzing |
 | Pantheon | [Link](https://github.com/josh0xA/Pantheon) | Surveillance / OSINT |
@@ -55,8 +60,6 @@
 | SSTImap | [Link](https://github.com/vladko312/sstimap) | Web Security |
 | ScareCrow | [Link](https://github.com/0dayCTF/ScareCrow) | Evasion / Exploitation |
 | SecLists | [Link](https://github.com/danielmiessler/SecLists) | General Security |
-| LinkFinder | [Link](https://github.com/GerbenJavado/LinkFinder) | Reconnaissance |
-| LockKnife | [Link](https://github.com/ImKKingshuk/LockKnife) | Password Recovery / Mobile Security |
 | Sharpcat | [Link](https://github.com/theart42/Sharpcat) | Web Security |
 | Site-Scanner | [Link](https://github.com/TalMaIka/Site-Scanner) | Web Security |
 | Sn1per | [Link](https://github.com/1N3/Sn1per/releases) | General Security |
@@ -67,6 +70,7 @@
 | Telnet | [Link](https://github.com/9swampy/Telnet) | Networking |
 | Th3Inspector | [Link](https://github.com/Moham3dRiahi/Th3inspector) | OSINT / Info Gathering |
 | TorBot | [Link](https://github.com/DedSecInside/TorBot) | Dark Web Monitoring / OSINT |
+| titus | [Link](https://github.com/praetorian-inc/titus) | Secrets Scanning / Credential Detection |
 | XCTR-Hacking-Tools | [Link](https://github.com/capture0x/XCTR-Hacking-Tools) | General Security |
 | XSS-Automation-Tool | [Link](https://github.com/EmperialX/XSS-Automation-Tool.git) | Web Security |
 | XSS-LOADER | [Link](https://github.com/capture0x/XSS-LOADER) | Web Security |
